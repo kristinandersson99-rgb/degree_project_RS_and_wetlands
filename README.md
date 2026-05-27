@@ -1,6 +1,6 @@
 # Fjärranalys-pipeline
 
-Masteruppsats i fjärranalys med fokus på våtmarkshälsa i svenska naturreservat (torvmarker/myrar).
+Masteruppsats i fjärranalys med fokus på våtmarker.
 Projektet använder Landsat- och Sentinel-2-data för att beräkna ett *Wetland Health Index* 
 och utföra en trendanalys samt image differencing baserat på spektrala index.
 
