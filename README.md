@@ -16,14 +16,14 @@ projekt/
 ├── variation.py                        # Beräknar mean- och std-raster per år och index
 ├── climate.py                          # SMHI-datahantering och klimatanomalier
 │
-├── preprocessing.ipynb                 # Interaktiv förbehandling av rådata (bandberäkning, klippning)
+├── preprocessing.ipynb                 # Förbehandling av rådata (bandberäkning, klippning)
 ├── WHI_part1_preparing_rasters.ipynb   # Steg 1: Bygger mean/std-raster inför WHI-beräkning
 ├── WHI_part2.ipynb                     # Steg 2: Min-max-normalisering och AHP-viktning
-├── WHI_part3.ipynb                     # Steg 3: Klassificering och WHI-kartor
+├── WHI_part3.ipynb                     # Steg 3: Klassificering, AHP-viktning och WHI-kartor
 ├── theil_sen_main.ipynb                # Trendanalys: Theil-Sen + Mann-Kendall (1984–2024)
 ├── change_detection.ipynb              # Bildifferensiering, t.ex. restaureringseffekter 2025
 ├── climate.ipynb                       # Klimatanomalier mot normalperioden 1991–2020
-└── mean_vals_correlation.ipynb         # Korrelationsanalys av arealmedelvärden per år
+└── mean_vals_correlation.ipynb         # Korrelationsanalys och medelvärden inom öppen våtmark
 ```
 
 ---
